@@ -1,0 +1,10 @@
+.cover{
+  width:1000px;
+  height:1500px;
+  transform:scale(0.75);
+}
+.work{
+  width:1000px;
+  height:1375px;
+  transform:scale(0.75);
+}
